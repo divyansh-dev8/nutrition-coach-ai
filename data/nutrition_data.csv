@@ -1,0 +1,28 @@
+item,calories,protein,carbs,fat,type,lifestyle,category
+Roti (1),120,3,22,2,food,normal,veg
+Rice (1 cup cooked),200,4,45,1,food,normal,veg
+Dal (1 bowl),230,16,40,2,food,normal,veg
+Vegetable Sabzi,120,3,15,4,food,normal,veg
+Curd (1 cup),150,8,12,5,food,normal,veg
+Oats (1 bowl),180,6,30,4,food,normal,veg
+Milk (1 glass),150,8,12,8,food,normal,veg
+Fruit Bowl,130,2,30,1,food,normal,veg
+Chana Salad,210,10,30,6,food,normal,veg
+Eggs (2 boiled),156,12,2,10,food,normal,non-veg
+Chicken Breast (100g),165,31,0,3,food,normal,non-veg
+Fish (100g),180,22,0,8,food,normal,non-veg
+Paneer (100g),265,18,6,20,food,luxury,veg
+Dry Fruits Mix,300,8,20,22,food,luxury,veg
+Avocado,240,3,12,22,food,luxury,veg
+Greek Yogurt,180,15,8,6,food,luxury,veg
+Salmon (100g),208,20,0,13,food,luxury,non-veg
+Mutton Curry,350,25,10,28,food,luxury,non-veg
+Protein Powder (1 scoop),120,24,3,2,supplement,any,supplement
+Creatine (5g),0,0,0,0,supplement,any,supplement
+Fish Oil Capsule,10,0,0,1,medicine,any,medicine
+Vitamin D3,0,0,0,0,medicine,any,medicine
+Vitamin B12,0,0,0,0,medicine,any,medicine
+Multivitamin,5,0,1,0,medicine,any,medicine
+Calcium Tablet,10,0,1,0,medicine,any,medicine
+Iron Supplement,10,0,2,0,medicine,any,medicine
+
